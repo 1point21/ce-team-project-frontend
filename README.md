@@ -2,10 +2,11 @@
 
 This is a frontend app for use with my final group project for Northcoders bootcamp - please see [THIS REPO](https://github.com/1point21/nc-ce-final-project-env).
 
-**NOTE**: This repo was provided for our final group project by Northcoders. All code was written, except for the `Jenkinsfile`, which our team added for the CI/CD pipelines. Changes were made to environment files and `Dockerfile` as required for build and testing.
+**NOTE**: This repo was provided for our final group project by Northcoders. All code was written by Northcoders, except for the `Jenkinsfile`, which our team added for the CI/CD pipelines. Changes were made to environment files and `Dockerfile` as required for build and testing.
 
 The following README was provided for us by Northcoders.
 
+---
 
 This is the frontend for adding/editing/deleting learners from our system. 
 
